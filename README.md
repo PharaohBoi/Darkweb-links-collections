@@ -2,6 +2,9 @@
 # DEEP WEB LINKS COLLECTION
 Attempt to collect some sites in one list
 
+## How to use ?
+You can use them in google chrome by adding the domain (.ly) behind the domain (.onion). But I don't recommend using this method,
+it's a good idea to copy this link and paste it in the [https;//www.torproject.org](TOR BROWSER) for safer diving.
 
 ## Menu
  - [Hidden Service lists and search engines](#hidden-service-lists-and-search-engines)
