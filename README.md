@@ -4,7 +4,7 @@ Attempt to collect some sites in one list
 
 ## How to use ?
 <p>You can use them in google chrome by adding the domain <strong>(.ly)</strong> behind the domain <strong>(.onion)</strong>. But I don't recommend using this method,
-it's a good idea to copy this link and paste it in the [TOR BROWSER](https;//www.torproject.org) for safer diving.</p>
+it's a good idea to copy this link and paste it in the <a href="https;//www.torproject.org">TOR BROWSER </a>for safer diving.</p>
 
 ## Menu
  - [Hidden Service lists and search engines](#hidden-service-lists-and-search-engines)
