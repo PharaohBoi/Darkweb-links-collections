@@ -3,7 +3,7 @@
 Attempt to collect some sites in one list
 
 ## How to use ?
-You can use them in google chrome by adding the domain (.ly) behind the domain (.onion). But I don't recommend using this method,
+<p>You can use them in google chrome by adding the domain <strong>(.ly)</strong> behind the domain <strong>(.onion)</strong>. But I don't recommend using this method,</p>
 it's a good idea to copy this link and paste it in the [TOR BROWSER](https;//www.torproject.org) for safer diving.
 
 ## Menu
