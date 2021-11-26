@@ -1,5 +1,5 @@
 
-# DEEP WEB LINKS COLLECTION
+# DEEP/DARK WEB LINKS COLLECTION
 Attempt to collect some sites in one list
 
 ## How to use ?
